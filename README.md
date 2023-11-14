@@ -1,7 +1,11 @@
-# Vue 3 + Vite
+# Shubh naam - A lucky name selector
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Wonder! if you get confused by so many name suggestion for your new born baby. I was also confused like you. So I created this little app for myself to get out of this confusion.
+This is a small app that takes several names from user as an input and add them in a list.
+From the list it selects the random lucky name for your new born.
 
-## Recommended IDE Setup
+## Installation guide
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- take pull
+- run command:  npm i
+- run command:  npm run dev
